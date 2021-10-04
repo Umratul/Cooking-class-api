@@ -6,7 +6,7 @@ const details = [
         price: 200 ,
         duration: '5 days',
         rating: 4.8 ,
-        body:'',
+        body:'Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent.We will help you to make these tasty foods',
         lessons: 15
     },
     {
@@ -16,7 +16,7 @@ const details = [
         price: 150,
         duration: '3 days' ,
         rating: 5,
-        body:'',
+        body:'Delicious SmoothieFor When You Need A Healthy Breakfast.We will help you to make this',
         lessons: 7
     },
  
@@ -27,7 +27,7 @@ const details = [
         price: 120,
         duration: '4 days' ,
         rating: 4,
-        body:'',
+        body:'From the stuffed ravioli of the north to the intricate shapes of the south, each region of Italy offers its own unique pasta form and flavors.We will help you to learn the recipe',
         lessons: 8
     },
     {
@@ -37,7 +37,7 @@ const details = [
         price: 200,
         duration: '5 days',
         rating: 4.5,
-        body:'',
+        body:'Who does not love ice-creams!From this course you can learn to make delicious ice-creams like the ice-cream parlor',
         lessons:12
     },
     {
@@ -47,7 +47,7 @@ const details = [
         price: 120 ,
         duration: '2days' ,
         rating: 4,
-        body: '' ,
+        body: 'We will help you make sweet, crunchy, crumbly Choco cookies at home' ,
         lessons: 5
     },
     {
@@ -57,7 +57,7 @@ const details = [
         price: 100,
         duration: '3 days' ,
         rating: 4.2,
-        body:'',
+        body:'We will help you to learn how to make  the best doughnuts at home',
         lessons: 5
     },
     {
@@ -67,7 +67,7 @@ const details = [
         price: 90,
         duration: '2 days',
         rating: 4,
-        body:'',
+        body:'You may know to make spaghetti.But we will help you to know how to make it delicious.',
         lessons:4
     },
     {
@@ -77,7 +77,7 @@ const details = [
         price: 100,
         duration: '2 days',
         rating: 4.5,
-        body:'',
+        body:'You can learn how to make all types of coffee here',
         lessons:3
     },
     {
@@ -87,7 +87,7 @@ const details = [
         price: 250,
         duration: '10 days',
         rating: 5,
-        body: '',
+        body: 'You will get all the supports to learn how to make cakes',
         lessons:15
     },
     {
@@ -97,7 +97,7 @@ const details = [
         price: 120,
         duration: '3 days' ,
         rating: 4.5,
-        body:'',
+        body:'Try this course & make your own burgers at home',
         lessons:8
     },
     {
@@ -107,7 +107,7 @@ const details = [
         price: 100,
         duration:'3 days' ,
         rating: 4 ,
-        body:'',
+        body:'Pancakes have also so many types and flavors.You will get all the support to learn making pancakes so easily',
         lessons:5
     }
   
